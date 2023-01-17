@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 import java.io.IOException;
 
 public class ClientWindow extends JFrame implements ActionListener, TCPConnectionListener {
-    private static final String IP_ADDR = "172.19.0.1";
+    private static final String IP_ADDR = "you IP";
     private static final int PORT = 8080;
     private static final int WIDTH = 600;
     private static final int HEIGHT = 600;
